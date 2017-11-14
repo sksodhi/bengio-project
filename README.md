@@ -6,17 +6,13 @@
 
 Team members
 ============
-+------------------------+<br>
-|Name                    |<br>
-+------------------------+<br>
-|Aidyn Kemeldinov        |<br>
-|Kirtika Khetarpal       |<br>
-|Sachin Ganpule          |<br>
-|Sandesh Kumar Sodhi     |<br>
-|Supriya Tantry Agrahara |<br>
-|Shahnam Khabiri         |<br>
-|Shruthi Bhat            |<br>
-+------------------------+<br>
+Aidyn Kemeldinov        <br>
+Kirtika Khetarpal       <br>
+Sachin Ganpule          <br>
+Sandesh Kumar Sodhi     <br>
+Supriya Tantry Agrahara <br>
+Shahnam Khabiri         <br>
+Shruthi Bhat            <br>
 
 
 Work Division
