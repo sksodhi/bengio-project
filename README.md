@@ -6,20 +6,20 @@
 
 Team members
 ============
-+------------------------+
-|Name                    |
-+------------------------+
-|Aidyn Kemeldinov        |
-|Kirtika Khetarpal       |
-|Sachin Ganpule          |
-|Sandesh Kumar Sodhi     |
-|Supriya Tantry Agrahara |
-|Shahnam Khabiri         |
-|Shruthi Bhat            |
-+------------------------+
++------------------------+<br>
+|Name                    |<br>
++------------------------+<br>
+|Aidyn Kemeldinov        |<br>
+|Kirtika Khetarpal       |<br>
+|Sachin Ganpule          |<br>
+|Sandesh Kumar Sodhi     |<br>
+|Supriya Tantry Agrahara |<br>
+|Shahnam Khabiri         |<br>
+|Shruthi Bhat            |<br>
++------------------------+<br>
 
 
-Proposed Work Division
+Work Division
 ======================
 1. PCA. Objective is to write a function which will take the number of dimensions 
    (number of principal components) as input, so that we can try how many 
