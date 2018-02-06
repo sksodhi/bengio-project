@@ -47,11 +47,11 @@ Tips
 
 Converting .ipynb file to python script
 =======================================
-
+```
 sksodhi-mbp bengio-project> jupyter nbconvert --to script bengio-project.ipynb 
 [NbConvertApp] Converting notebook bengio-project.ipynb to script
 [NbConvertApp] Writing 2871 bytes to bengio-project.py
-
+```
 
 Starting jupyter
 =======================================
